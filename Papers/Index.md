@@ -1,13 +1,13 @@
 # 论文索引及简介
 1. https://ai.google/research/teams/brain/healthcare-biosciences
 往下滚动，有4篇论文：
-[![](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/Res/20180529172857.png)](https://ai.google/research/teams/brain/healthcare-biosciences)
+[![](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/Res/20180529172857.png)](https://ai.google/research/teams/brain/healthcare-biosciences)  
 
-- [![《Predicting Cardiovascular Risk Factors in Retinal Fundus Photographs using Deep Learning》]()](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Predicting%20Cardiovascular%20Risk%20Factors%20in%20Retinal%20Fundus%20Photographs%20using%20Deep%20Learning%20.pdf)
+- [《Predicting Cardiovascular Risk Factors in Retinal Fundus Photographs using Deep Learning》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Predicting%20Cardiovascular%20Risk%20Factors%20in%20Retinal%20Fundus%20Photographs%20using%20Deep%20Learning%20.pdf)
 
-- [![《Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs》]()](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Development%20and%20Validation%20of%20a%20Deep%20Learning%20Algorithm%20for%20Detection%20of%20Diabetic%20Retinopathy%20in%20Retinal%20Fundus%20Photographs%20.pdf)
+- [《Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Development%20and%20Validation%20of%20a%20Deep%20Learning%20Algorithm%20for%20Detection%20of%20Diabetic%20Retinopathy%20in%20Retinal%20Fundus%20Photographs%20.pdf)
 
--  [![《Detecting Cancer Metastases on Gigapixel Pathology Images》]()](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Detecting%20Cancer%20Metastases%20on%20Gigapixel%20Pathology%20Images%20.pdf)
+-  [《Detecting Cancer Metastases on Gigapixel Pathology Images》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Detecting%20Cancer%20Metastases%20on%20Gigapixel%20Pathology%20Images%20.pdf "《Detecting Cancer Metastases on Gigapixel Pathology Images》")
 
 - 【未找到下载】《Grader variability and the importance of reference standards for evaluating machine learning models for diabetic retinopathy》
 
@@ -39,7 +39,7 @@ MIMIC 是一个常用于研究的医学数据库，是ICU的检测数据，包�
 推荐，一篇通过CT来判断病变位置的论文
 
 11.[《Visualizing and Understanding Convolutional Networks 1311.2901》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Visualizing%20and%20Understanding%20Convolutional%20Networks%201311.2901.pdf "《Visualizing and Understanding Convolutional Networks 1311.2901》")   
-如果想更直观的搞清楚到底CNN的工作原理是什么，可以看看这篇论文
+如果想更直观的搞清楚到底CNN的工作原理是什么，可以看看这篇论文  
 
-12. [《Scalable and accurate deep learning with electronic health records-from google》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Scalable%20and%20accurate%20deep%20learning%20with%20electronic%20health%20records-from%20google.pdf "《Scalable and accurate deep learning with electronic health records-from google》")
+12.[《Scalable and accurate deep learning with electronic health records-from google》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Scalable%20and%20accurate%20deep%20learning%20with%20electronic%20health%20records-from%20google.pdf "《Scalable and accurate deep learning with electronic health records-from google》")  
 Google的一个通过文本预测医疗信息的开山之作，具有很强的指导作用，对我们研究文本预测有很重要的作用
