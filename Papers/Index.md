@@ -6,3 +6,4 @@
 	- 《Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs 》
 	- 《Detecting Cancer Metastases on Gigapixel Pathology Images 》
 	- 《Grader variability and the importance of reference standards for evaluating machine learning models for diabetic retinopathy 》
+				1213
