@@ -40,3 +40,6 @@ MIMIC 是一个常用于研究的医学数据库，是ICU的检测数据，包�
 
 11.[《Visualizing and Understanding Convolutional Networks 1311.2901》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Visualizing%20and%20Understanding%20Convolutional%20Networks%201311.2901.pdf "《Visualizing and Understanding Convolutional Networks 1311.2901》")   
 如果想更直观的搞清楚到底CNN的工作原理是什么，可以看看这篇论文
+
+12. [《Scalable and accurate deep learning with electronic health records-from google》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Scalable%20and%20accurate%20deep%20learning%20with%20electronic%20health%20records-from%20google.pdf "《Scalable and accurate deep learning with electronic health records-from google》")
+Google的一个通过文本预测医疗信息的开山之作，具有很强的指导作用，对我们研究文本预测有很重要的作用
