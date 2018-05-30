@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 主要特性
 
 - 支持“标准”Markdown / CommonMark和Github风格的语法，也可变身为代码编辑器；
@@ -10,3 +11,14 @@
 - 支持自定义主题样式；
 
 # Editor.md
+=======
+# 论文索引及简介
+1. https://ai.google/research/teams/brain/healthcare-biosciences
+往下滚动，有4篇论文：
+[![](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/20180529172857.png)](https://ai.google/research/teams/brain/healthcare-biosciences)
+	- 《Predicting Cardiovascular Risk Factors in Retinal Fundus Photographs using Deep Learning 》
+	- 《Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs 》
+	- 《Detecting Cancer Metastases on Gigapixel Pathology Images 》
+	- 《Grader variability and the importance of reference standards for evaluating machine learning models for diabetic retinopathy 》
+				1213
+>>>>>>> 087f50698891a340cde5d5e5b5763b5d04793ce5
