@@ -16,7 +16,7 @@
 推荐，3D卷积模型识别脑部CT，可以借鉴这个方法
 
 1. [《Large scale tissue histopathology image classification, segmentation, and visualization via deep convolutional activation features.pdf》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Large%20scale%20tissue%20histopathology%20image%20classification%2C%20segmentation%2C%20and%20visualization%20via%20deep%20convolutional%20activation%20features.pdf "《Large scale tissue histopathology image classification, segmentation, and visualization via deep convolutional activation features.pdf》")   
-基于深层卷积激活特征实现对组织病理学图像分类分割和可视化
+基于深层卷积激活特征实现对组织病理学图像分类分割和可视化【已由徐越同学完成整理并上传至 /summarized 文件夹】
 
 1. [《A method for classifying medical images using transfer learning A Pilot Study on Histopathology of Breast Cancer》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/A%20method%20for%20classifying%20medical%20images%20using%20transfer%20learning%20A%20Pilot%20Study%20on%20Histopathology%20of%20Breast%20Cancer.pdf "《A method for classifying medical images using transfer learning A Pilot Study on Histopathology of Breast Cancer》")   
 推荐，通过迁移学习的方式，高效率完成乳腺癌识别，可以借鉴这种方法，减少在训练模型时的计算力要求
