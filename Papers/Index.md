@@ -44,3 +44,9 @@ MIMIC 是一个常用于研究的医学数据库，是ICU的检测数据，包�
 
 1. [《Scalable and accurate deep learning with electronic health records-from google》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Scalable%20and%20accurate%20deep%20learning%20with%20electronic%20health%20records-from%20google.pdf "《Scalable and accurate deep learning with electronic health records-from google》")  
 Google的一个通过文本预测医疗信息的开山之作，具有很强的指导作用，对我们研究文本预测有很重要的作用
+
+1. [《CheXNet Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/CheXNet%20Radiologist-Level%20Pneumonia%20Detection%20on%20Chest%20X-Rays%20with%20Deep%20Learning.pdf "《CheXNet Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning》")  
+一篇通过胸部X光图像判断肺炎的论文
+
+1. [《Densely Connected Convolutional Networks》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Densely%20Connected%20Convolutional%20Networks%201608.06993.pdf "《Densely Connected Convolutional Networks》")  
+上篇论文中主要用到的CNN模型
