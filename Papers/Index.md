@@ -50,3 +50,6 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 
 1. [《Densely Connected Convolutional Networks》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Densely%20Connected%20Convolutional%20Networks%201608.06993.pdf "《Densely Connected Convolutional Networks》")  
 上篇论文中主要用到的CNN模型
+
+1. [《ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/ChestX-ray8%20Hospital-scale%20Chest%20X-ray%20Database%20and%20Benchmarks%20on%20Weakly-Supervised%20Classification%20and%20Localization%20of%20Common%20Thorax%20Diseases%201705.02315.pdf "《ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases》")  
+上篇论文中用到的胸部X光图片数据，一些相关介绍：http://www.sohu.com/a/195821818_473283
