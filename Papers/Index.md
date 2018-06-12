@@ -60,3 +60,10 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 
 1. [《Deep Learning in Medical Imaging Overview and future promise of an exciting new technique. 07463094》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Overview%20and%20future%20promise%20of%20an%20exciting%20new%20technique.%2007463094.pdf "《Deep Learning in Medical Imaging Overview and future promise of an exciting new technique. 07463094》")  
 论文对深度学习在医疗图像影像中的应用做了一个调查，可以作为概览进行了解：目前该领域有哪些研究方向等。
+
+
+1. [《imagenet-classification-with-deep-convolutional-neural-networks》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/imagenet-classification-with-deep-convolutional-neural-networks.pdf
+ "《imagenet-classification-with-deep-convolutional-neural-networks》")  
+
+
+
