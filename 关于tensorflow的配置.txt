@@ -1,0 +1,11 @@
+windows下Tensorflow的官方安装教程：https://www.tensorflow.org/install/install_windows
+安装环境：win10 + Anaconda3-5.0.1-Windows-x86_64 + cuda_9.0.176_win10 + cudnn-9.0-windows10-x64-v7 + python3.5 
+	（其中cuda和cudnn是GPU所必须的，cuda必须是9.0版本，6维上面有，以上的版本也不行，python也只能是3.5版本）
+出现的问题：
+（1）如果速度很慢：请使用anaconda清华镜像 （参考 https://blog.csdn.net/u010570551/article/details/54291507）
+（2）如果安装过程中出现中断并且满屏幕红字： 请一定使用管理员身份打开anaconda prompt
+（3）出现黄字Cache entry deserialization failed, entry ignored	： 请一定使用管理员身份打开anaconda prompt	
+（4）出现黄字You are using pip version 9.0.1, however version 10.0.1 is available.
+	     You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+	请直接运行命令：python -m pip install --upgrade pip （参考 https://blog.csdn.net/qq_41185868/article/details/79678909）
+
