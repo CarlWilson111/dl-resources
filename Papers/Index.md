@@ -52,7 +52,11 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 上篇论文中主要用到的CNN模型
 
 1. [《ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/ChestX-ray8%20Hospital-scale%20Chest%20X-ray%20Database%20and%20Benchmarks%20on%20Weakly-Supervised%20Classification%20and%20Localization%20of%20Common%20Thorax%20Diseases%201705.02315.pdf "《ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases》")  
-上篇论文中用到的胸部X光图片数据。本文利用病历中的诊断信息（文本），通过自然语言处理，得到疾病关键字，将这些信息与对应的图像关联起来（labeled），用于自动完成数据标记，准确度达到90%以上。一些相关介绍：http://www.sohu.com/a/195821818_473283
+上上篇论文中用到的胸部X光图片数据。本文利用病历中的诊断信息（文本），通过自然语言处理，得到疾病关键字，将这些信息与对应的图像关联起来（labeled），用于自动完成数据标记，准确度达到90%以上。一些相关介绍：http://www.sohu.com/a/195821818_473283
 
 1. [《Pulmonary nodule detection in ct images Falsepositive reduction using multi 07422783》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Pulmonary%20nodule%20detection%20in%20ct%20images%20Falsepositive%20reduction%20using%20multi%2007422783.pdf "《Pulmonary nodule detection in ct images Falsepositive reduction using multi 07422783》")  
 论文中的对CT图像进行处理的CNN结构值得看一看
+
+
+1. [《Deep Learning in Medical Imaging Overview and future promise of an exciting new technique. 07463094》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Overview%20and%20future%20promise%20of%20an%20exciting%20new%20technique.%2007463094.pdf "《Deep Learning in Medical Imaging Overview and future promise of an exciting new technique. 07463094》")  
+论文对深度学习在医疗图像影像中的应用做了一个调查，可以作为概览进行了解：目前该领域有哪些研究方向等。
