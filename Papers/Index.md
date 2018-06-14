@@ -49,7 +49,7 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 一篇通过胸部X光图像判断肺炎的论文
 
 1. [《Densely Connected Convolutional Networks》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/Densely%20Connected%20Convolutional%20Networks%201608.06993.pdf "《Densely Connected Convolutional Networks》")  
-上篇论文中主要用到的CNN模型
+上篇论文中主要用到的CNN模型【已由徐越同学完成整理并上传至 /summarized 文件夹】
 
 1. [《ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/ChestX-ray8%20Hospital-scale%20Chest%20X-ray%20Database%20and%20Benchmarks%20on%20Weakly-Supervised%20Classification%20and%20Localization%20of%20Common%20Thorax%20Diseases%201705.02315.pdf "《ChestX-ray8 Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases》")  
 上上篇论文中用到的胸部X光图片数据。本文利用病历中的诊断信息（文本），通过自然语言处理，得到疾病关键字，将这些信息与对应的图像关联起来（labeled），用于自动完成数据标记，准确度达到90%以上。一些相关介绍：http://www.sohu.com/a/195821818_473283
@@ -64,6 +64,6 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 
 1. [《imagenet-classification-with-deep-convolutional-neural-networks》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/imagenet-classification-with-deep-convolutional-neural-networks.pdf
  "《imagenet-classification-with-deep-convolutional-neural-networks》")  
-论文是对数据集ImageNet分类所创建的模型。
+论文是对数据集ImageNet分类所创建的模型。【已由徐越同学完成整理并上传至 /summarized 文件夹】
 
 
