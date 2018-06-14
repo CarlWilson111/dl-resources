@@ -64,6 +64,6 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 
 1. [《imagenet-classification-with-deep-convolutional-neural-networks》](https://github.com/Hu-Hongyan/dl-resources/blob/master/Papers/pdf/imagenet-classification-with-deep-convolutional-neural-networks.pdf
  "《imagenet-classification-with-deep-convolutional-neural-networks》")  
-
+论文是对数据集ImageNet分类所创建的模型。
 
 
