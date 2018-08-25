@@ -67,3 +67,10 @@ Google的一个通过文本预测医疗信息的开山之作，具有很强的�
 论文是对数据集ImageNet分类所创建的模型。【已由徐越同学完成整理并上传至 /summarized 文件夹】
 
 
+
+1. [《DeepHeart: Semi-Supervised Sequence Learning for Cardiovascular Risk
+Prediction》](https://arxiv.org/pdf/1802.02511.pdf)  
+通过便携式设备检测的生理波形信息，利用深度学习（卷积+LSTM）预测糖尿病等。(波形的深度学习处理)
+
+
+
