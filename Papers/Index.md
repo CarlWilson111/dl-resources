@@ -76,3 +76,8 @@ Prediction》](https://arxiv.org/pdf/1802.02511.pdf)
 
 1. [《Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks》](https://arxiv.org/pdf/1707.01836.pdf)
 利用CNN，从ECG中识别心率异常。
+
+
+
+1. [《Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning》](https://arxiv.org/abs/1811.07774)   
+利用1DCNN，从PPG中识别心率异常
