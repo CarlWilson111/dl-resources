@@ -74,3 +74,5 @@ Prediction》](https://arxiv.org/pdf/1802.02511.pdf)
 
 
 
+1. [《Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks》](https://arxiv.org/pdf/1707.01836.pdf)
+利用CNN，从ECG中识别心率异常。
