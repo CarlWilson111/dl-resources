@@ -74,7 +74,7 @@ Prediction》](https://arxiv.org/pdf/1802.02511.pdf)
 
 
 
-1. [《Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks》](https://arxiv.org/pdf/1707.01836.pdf)
+1. [《Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks》](https://arxiv.org/pdf/1707.01836.pdf)  
 利用CNN，从ECG中识别心率异常。
 
 
@@ -85,3 +85,7 @@ Prediction》](https://arxiv.org/pdf/1802.02511.pdf)
 
 1. [《Aggregated Residual Transformations for Deep Neural Networks》](https://arxiv.org/abs/1611.05431)  
 ResNeXt 是Inception的一种创新，用于图像分类的卷积网络结构
+
+
+1. [《On the Analysis of Fingertip Photoplethysmogram Signals》](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394104/pdf/CCR-8-14.pdf)  
+PPG 说明review
