@@ -81,3 +81,7 @@ Prediction》](https://arxiv.org/pdf/1802.02511.pdf)
 
 1. [《Ambulatory Atrial Fibrillation Monitoring Using Wearable Photoplethysmography with Deep Learning》](https://arxiv.org/abs/1811.07774)   
 利用1DCNN，从PPG中识别心率异常
+
+
+1. [《Aggregated Residual Transformations for Deep Neural Networks》](https://arxiv.org/abs/1611.05431)  
+ResNeXt 是Inception的一种创新，用于图像分类的卷积网络结构
